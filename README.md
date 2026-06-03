@@ -63,14 +63,25 @@ Para ejecutar el simulador solo se necesita un navegador web moderno, por ejempl
 
 No es necesario instalar dependencias adicionales.
 
-## Instrucciones de ejecución
+## Instrucciones de ejecución y reproducción
 
-1. Descargar o clonar la carpeta del proyecto.
-2. Abrir el archivo `index.html`.
-3. Ejecutarlo directamente en el navegador dando doble clic sobre el archivo.
+El proyecto no requiere instalación de librerías externas ni conexión a internet. Para ejecutar y reproducir el funcionamiento del simulador, siga los siguientes pasos:
 
-También puede abrirse desde Visual Studio Code usando la extensión Live Server, aunque no es obligatorio.
+1. Descargar o clonar el repositorio.
+2. Abrir la carpeta del proyecto.
+3. Ejecutar el archivo `index.html` dando doble clic sobre él.
+4. El simulador se abrirá directamente en el navegador web.
+5. Para verificar el funcionamiento, reproducir los casos documentados en el archivo `casos_prueba.md`.
+6. Comparar los resultados visuales con las capturas incluidas en la carpeta `evidencias/`.
 
+### Archivos necesarios
+
+```text
+index.html
+README.md
+casos_prueba.md
+evidencias/
+reporte.pdf
 ## Estructura del proyecto
 
 ```text
