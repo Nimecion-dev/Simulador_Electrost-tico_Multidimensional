@@ -82,7 +82,6 @@ README.md
 casos_prueba.md
 evidencias/
 reporte.pdf
-## Estructura del proyecto
 ```
 
 ## Uso del simulador
