@@ -83,22 +83,6 @@ casos_prueba.md
 evidencias/
 reporte.pdf
 ## Estructura del proyecto
-
-```text
-simulador_electrostatico_entrega_100/
-│
-├── index.html
-├── README.md
-├── casos_prueba.md
-│
-├── reporte/
-│   ├── Reporte_Tecnico_Simulador_Electrostatico.docx
-│   └── Reporte_Tecnico_Simulador_Electrostatico.pdf
-│
-└── evidencias/
-    ├── caso_1d.png
-    ├── caso_2d.png
-    └── campo_electrico.png
 ```
 
 ## Uso del simulador
